@@ -112,6 +112,7 @@ ul li a:hover{
     line-height: 60px;
     margin-bottom: 10px; /* Reduced margin for h2 */
     text-shadow: 2px 2px 0 #000;
+
 }
 
 .content .infor h2 span {
@@ -119,6 +120,7 @@ ul li a:hover{
     font-size: 70px;
     font-weight: 600;
     text-shadow: 2px 2px 0 #000;
+    margin-bottom: 10px;
 }
 
 .content .infor p {
