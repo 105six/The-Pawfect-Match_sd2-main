@@ -111,15 +111,18 @@ ul li a:hover{
     letter-spacing: 2px;
     line-height: 60px;
     margin-bottom: 10px; /* Reduced margin for h2 */
+    text-shadow: 2px 2px 0 #000;
 }
 
 .content .infor h2 span {
     color: #faf6f6;
     font-size: 70px;
     font-weight: 600;
+    text-shadow: 2px 2px 0 #000;
 }
 
 .content .infor p {
+    color: #faf6f6;
     font-size: 20px;
     font-weight: 500;
     margin-bottom: 40px;
@@ -129,5 +132,6 @@ ul li a:hover{
     padding: 20px;
     text-align: justify;
     text-justify: inter-word;
+    text-shadow: 2px 2px 0 #000;
 }
 
